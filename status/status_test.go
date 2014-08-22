@@ -1,7 +1,7 @@
 package status
 
 import (
-	"github.com/jandre/procfs/util"
+	"github.com/didip/procfs/util"
 	"testing"
 )
 

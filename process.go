@@ -26,9 +26,9 @@ import (
 	"log"
 	"os"
 	"path"
-	"github.com/jandre/procfs/limits"
-	"github.com/jandre/procfs/stat"
-	"github.com/jandre/procfs/statm"
+	"github.com/didip/procfs/limits"
+	"github.com/didip/procfs/stat"
+	"github.com/didip/procfs/statm"
 	"strconv"
 	"strings"
 )

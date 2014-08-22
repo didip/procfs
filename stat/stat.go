@@ -8,7 +8,7 @@ package stat
 
 import (
 	"io/ioutil"
-	"github.com/jandre/procfs/util"
+	"github.com/didip/procfs/util"
 	"strings"
 	"time"
 )
